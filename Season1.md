@@ -1,0 +1,1 @@
+The season start with [[Introduction to Ethical hacking]] and then [[Introduction to Linux]] then goes through [[Python]] after that [[Bash]] at the last [[Networking]] 

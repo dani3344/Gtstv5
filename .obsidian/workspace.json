@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9882e1d7580f10",
+        "id": "8645a7ced9fcbcd8",
         "type": "tabs",
         "children": [
           {
-            "id": "48a502ce83c123e5",
+            "id": "9a47cceb16bf82bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87c2693959520b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf11903b1e7d0466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Ethical hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57cc317e541a85d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3299bd2a3f115b9a",
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Ethical hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction to Ethical hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +161,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction to Ethical hacking.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,6 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48a502ce83c123e5",
-  "lastOpenFiles": []
+  "active": "bf11903b1e7d0466",
+  "lastOpenFiles": [
+    "Linux for User.md",
+    "lin.md",
+    "Introduction to Linux.md",
+    "Introduction to Ethical hacking.md",
+    "Season1.md",
+    "Python.md",
+    "Bash.md",
+    "Networking.md",
+    "README.md",
+    "season 1"
+  ]
 }
